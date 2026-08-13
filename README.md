@@ -64,14 +64,6 @@ I like building tools that solve real problems, particularly at the intersection
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=digger3927&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Eric's GitHub stats" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/ericshreve)
